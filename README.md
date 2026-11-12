@@ -1,2 +1,2 @@
-# some-game
-some temporary game
+# Quiz Game
+A small quiz game for testing purposes.
